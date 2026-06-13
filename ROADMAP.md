@@ -5,11 +5,7 @@
 
 ## Now
 
-| Item | Tag | Priority |
-|---|---|---|
-| Deep-dive: Barack Obama Nobel Peace Prize (Oct 9, 2009) | content | medium |
-| Deep-dive: Copenhagen Climate Conference COP15 (Dec 7–18, 2009) | content | medium |
-| Deep-dive: *Avatar* theatrical release (Dec 18, 2009) | content | medium |
+_Nothing in progress — Tick 3 complete. Replant imminent._
 
 ## Backlog
 
@@ -27,15 +23,18 @@
 
 | Item | Tag | Completed |
 |---|---|---|
-| Genesis: seed.md, README.md, ROADMAP.md, .github/ layer | meta | 2026-06-13 |
-| Generate TIMELINE.md from README knowledge table | structure | 2026-06-13 |
-| Generate category index pages (all 5 slugs) | structure | 2026-06-13 |
-| Generate master INDEX.md | structure | 2026-06-13 |
-| Deep-dive: Barack Obama inauguration (Jan 20, 2009) | content | 2026-06-13 |
-| Deep-dive: H1N1 swine flu pandemic (Apr–Dec 2009) | content | 2026-06-13 |
+| Deep-dive: Barack Obama Nobel Peace Prize (Oct 9, 2009) | content | 2026-06-13 |
+| Deep-dive: Copenhagen Climate Conference COP15 (Dec 7–18, 2009) | content | 2026-06-13 |
+| Deep-dive: *Avatar* theatrical release (Dec 18, 2009) | content | 2026-06-13 |
 | Deep-dive: Miracle on the Hudson — US Airways Flight 1549 (Jan 15, 2009) | content | 2026-06-13 |
 | Deep-dive: Iran Green Movement protests (Jun–Jul 2009) | content | 2026-06-13 |
 | Deep-dive: Michael Jackson death (Jun 25, 2009) | content | 2026-06-13 |
+| Deep-dive: Barack Obama inauguration (Jan 20, 2009) | content | 2026-06-13 |
+| Deep-dive: H1N1 swine flu pandemic (Apr–Dec 2009) | content | 2026-06-13 |
+| Generate TIMELINE.md from README knowledge table | structure | 2026-06-13 |
+| Generate category index pages (all 5 slugs) | structure | 2026-06-13 |
+| Generate master INDEX.md | structure | 2026-06-13 |
+| Genesis: seed.md, README.md, ROADMAP.md, .github/ layer | meta | 2026-06-13 |
 
 ## Ideas
 

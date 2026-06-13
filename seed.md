@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2009 is the current instance, spawned from the year 2008.
 
-**Generation status: growing** — 1 tick completed. Spawned from [year-of-ai/2008](https://github.com/year-of-ai/2008) — the year 2008.
+**Generation status: mature** — 3 ticks completed; replant imminent. Spawned from [year-of-ai/2008](https://github.com/year-of-ai/2008) — the year 2008.
 
 ## 3. Architecture (customization layer)
 
@@ -79,18 +79,24 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2009` (13 rows; 2 rows link to dedicated files).
-- **Dedicated topic files:** 2
+- **Knowledge table:** `README.md` → `## Notable Events of 2009` (13 rows; 8 rows link to dedicated files).
+- **Dedicated topic files:** 8
   - `history-politics/obama-inauguration-2009.md` — Barack Obama's Inauguration (January 20, 2009)
   - `science-technology/h1n1-swine-flu-pandemic.md` — 2009 H1N1 Swine Flu Pandemic
+  - `history-politics/miracle-on-the-hudson.md` — Miracle on the Hudson / US Airways Flight 1549 (January 15, 2009)
+  - `history-politics/iran-green-movement-2009.md` — Iran Green Movement Protests (June–July 2009)
+  - `arts-culture/michael-jackson-death-2009.md` — Death of Michael Jackson (June 25, 2009)
+  - `history-politics/obama-nobel-peace-prize-2009.md` — Barack Obama Nobel Peace Prize (October 9, 2009)
+  - `history-politics/cop15-copenhagen-2009.md` — Copenhagen Climate Conference COP15 (December 7–18, 2009)
+  - `arts-culture/avatar-2009.md` — Avatar Theatrical Release (December 18, 2009)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
 - `TIMELINE.md` — generated 2026-06-13 (13 events, chronological).
-- `history-politics/index.md` — generated 2026-06-13 (6 entries; 1 links to dedicated file).
+- `history-politics/index.md` — generated 2026-06-13 (6 entries; links to 5 dedicated files).
 - `science-technology/index.md` — generated 2026-06-13 (3 entries; 1 links to dedicated file).
-- `arts-culture/index.md` — generated 2026-06-13 (1 entry).
+- `arts-culture/index.md` — generated 2026-06-13 (2 entries; 2 link to dedicated files).
 - `society-economics/index.md` — generated 2026-06-13 (1 entry).
 - `people/index.md` — generated 2026-06-13 (2 entries).
 - `INDEX.md` — generated 2026-06-13 (master index, all 5 categories).
@@ -172,3 +178,18 @@ First growth tick. Generated the full structural layer and created the first two
 **Added**: Miracle on the Hudson (US Airways 1549), Iran Green Movement protests, Michael Jackson death
 **Structure**: README links updated, ROADMAP reconciled
 **Ticks this generation**: 2
+
+---
+
+### Tick 3 — 2026-06-13
+
+Third and final growth tick for the 2009 generation (replant threshold reached after this publish).
+
+- Created `history-politics/obama-nobel-peace-prize-2009.md`: Barack Obama's Nobel Peace Prize, October 9, 2009. Covers the announcement, committee's stated rationale, Obama's response, mixed public reaction, and historical significance of the earliest-ever award to a sitting US president (sources: Wikipedia, NobelPrize.org, U.S. Mission Geneva).
+- Created `history-politics/cop15-copenhagen-2009.md`: Copenhagen Climate Conference COP15, December 7–18, 2009. Covers conference structure, key figures (Obama, Wen Jiabao, Singh, Lula, Zuma), the Copenhagen Accord's contents, why it fell short of a binding treaty, and its lasting influence on the Paris Agreement architecture (sources: Wikipedia — Copenhagen climate summit, Wikipedia — Copenhagen Accord, IISD Earth Negotiations Bulletin summary, UNFCCC official document FCCC/CP/2009/L.7).
+- Created `arts-culture/avatar-2009.md`: Avatar theatrical release, December 18, 2009. Covers James Cameron's development history, 3D Fusion Camera System innovation, box office records ($2.924 billion worldwide, first film over $2 billion), Academy Awards wins, and cultural significance of the 3D cinema boom (sources: Wikipedia, History.com).
+- Updated `README.md`: 3 additional rows now link to dedicated files — Obama Nobel, COP15, Avatar — bringing total linked rows from 5 to 8 of 13.
+- Updated `ROADMAP.md`: 3 items moved to Done (Nobel, COP15, Avatar); Now cleared; Backlog retained for successor or future growth.
+- Updated `seed.md` §2: generation status updated to "mature — 3 ticks completed; replant imminent."
+- Updated `seed.md` §4: dedicated files 5→8, README links 5→8.
+- **Ticks this generation**: 3 — replant to year-of-ai/2010 follows this publish.
