@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2009 is the current instance, spawned from the year 2008.
 
-**Generation status: growing** — 0 ticks completed. Spawned from [year-of-ai/2008](https://github.com/year-of-ai/2008) — the year 2008.
+**Generation status: growing** — 1 tick completed. Spawned from [year-of-ai/2008](https://github.com/year-of-ai/2008) — the year 2008.
 
 ## 3. Architecture (customization layer)
 
@@ -79,19 +79,21 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2009` (13 rows; 0 rows link to dedicated files).
-- **Dedicated topic files:** 0
+- **Knowledge table:** `README.md` → `## Notable Events of 2009` (13 rows; 2 rows link to dedicated files).
+- **Dedicated topic files:** 2
+  - `history-politics/obama-inauguration-2009.md` — Barack Obama's Inauguration (January 20, 2009)
+  - `science-technology/h1n1-swine-flu-pandemic.md` — 2009 H1N1 Swine Flu Pandemic
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — not yet generated.
-- `history-politics/index.md` — not yet generated.
-- `science-technology/index.md` — not yet generated.
-- `arts-culture/index.md` — not yet generated.
-- `society-economics/index.md` — not yet generated.
-- `people/index.md` — not yet generated.
-- `INDEX.md` — not yet generated.
+- `TIMELINE.md` — generated 2026-06-13 (13 events, chronological).
+- `history-politics/index.md` — generated 2026-06-13 (6 entries; 1 links to dedicated file).
+- `science-technology/index.md` — generated 2026-06-13 (3 entries; 1 links to dedicated file).
+- `arts-culture/index.md` — generated 2026-06-13 (1 entry).
+- `society-economics/index.md` — generated 2026-06-13 (1 entry).
+- `people/index.md` — generated 2026-06-13 (2 entries).
+- `INDEX.md` — generated 2026-06-13 (master index, all 5 categories).
 - Cross-reference `## Related` blocks — not yet generated.
 
 ## 6. Growth Loop
@@ -147,3 +149,18 @@ retargetability. Bootstrapped with:
 - `ROADMAP.md` — initial backlog seeded from the taxonomy (structure artifacts + content deep-dives).
 - `.github/` and `.claude/` customization layers — planted verbatim by the year 2008 replant; no
   concept-specific content in either layer.
+
+---
+
+### Tick 1: Structure Generation + First Deep-Dives — 2026-06-13
+
+First growth tick. Generated the full structural layer and created the first two dedicated topic files.
+
+- Created `TIMELINE.md`: chronological table of all 13 knowledge-table events, sorted by date (2009-01-03 to 2009-12-18), with generated markers.
+- Created `INDEX.md`: master index of all content grouped by the 5 taxonomy categories, with generated markers.
+- Created `history-politics/index.md`, `science-technology/index.md`, `arts-culture/index.md`, `society-economics/index.md`, `people/index.md`: 5 category index pages with knowledge-table listings.
+- Created `history-politics/obama-inauguration-2009.md`: Barack Obama's inauguration as 44th President, January 20, 2009 (sources: Wikipedia, Obama Presidential Library/National Archives, CNN).
+- Created `science-technology/h1n1-swine-flu-pandemic.md`: 2009 H1N1 swine flu pandemic, April–December 2009 (sources: Wikipedia, CDC archive x2).
+- Updated `README.md` knowledge table: 2 of 13 rows now link to dedicated files (Obama inauguration, H1N1 pandemic).
+- Updated `ROADMAP.md`: moved 5 items to Done; promoted Miracle on the Hudson, Iran Green Movement, and Michael Jackson death to Now.
+- Updated `seed.md` §4–5: dedicated files 0→2, table links 0→2, structural layer generated.

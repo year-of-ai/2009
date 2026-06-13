@@ -20,9 +20,9 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2008](http
 
 | Event | Description |
 |---|---|
-| Barack Obama inaugurated | Democrat Barack Obama was sworn in as the 44th President of the United States on January 20, becoming the first African American to hold the office. |
+| [Barack Obama inaugurated](history-politics/obama-inauguration-2009.md) | Democrat Barack Obama was sworn in as the 44th President of the United States on January 20, becoming the first African American to hold the office. |
 | Miracle on the Hudson | US Airways Flight 1549 ditched in the Hudson River on January 15 after a bird strike disabled both engines; all 155 aboard survived, making it one of aviation history's most celebrated emergency landings. |
-| H1N1 swine flu pandemic | A novel H1N1 influenza strain emerged in Mexico and the United States in April; the WHO declared a Phase 6 pandemic on June 11 — the first influenza pandemic since 1968 — affecting nearly every country. |
+| [H1N1 swine flu pandemic](science-technology/h1n1-swine-flu-pandemic.md) | A novel H1N1 influenza strain emerged in Mexico and the United States in April; the WHO declared a Phase 6 pandemic on June 11 — the first influenza pandemic since 1968 — affecting nearly every country. |
 | Iran's Green Movement protests | Disputed presidential election results in June triggered mass protests under the banner of the Green Movement, the largest civil unrest in Iran since the 1979 revolution, met with violent suppression. |
 | Michael Jackson dies | Pop star Michael Jackson died of acute propofol intoxication on June 25 at age 50, prompting a global outpouring of grief and renewed recognition of his cultural legacy. |
 | Uyghur unrest in Xinjiang | Deadly ethnic riots broke out in Ürümqi on July 5, leaving at least 197 dead and over 1,700 injured, drawing international attention to tensions between the Han and Uyghur communities in western China. |
