@@ -164,3 +164,11 @@ First growth tick. Generated the full structural layer and created the first two
 - Updated `README.md` knowledge table: 2 of 13 rows now link to dedicated files (Obama inauguration, H1N1 pandemic).
 - Updated `ROADMAP.md`: moved 5 items to Done; promoted Miracle on the Hudson, Iran Green Movement, and Michael Jackson death to Now.
 - Updated `seed.md` §4–5: dedicated files 0→2, table links 0→2, structural layer generated.
+
+---
+
+## Tick 2 — 2026-06-13
+
+**Added**: Miracle on the Hudson (US Airways 1549), Iran Green Movement protests, Michael Jackson death
+**Structure**: README links updated, ROADMAP reconciled
+**Ticks this generation**: 2

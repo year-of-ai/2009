@@ -7,17 +7,14 @@
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Miracle on the Hudson — US Airways Flight 1549 (Jan 15, 2009) | content | high |
-| Deep-dive: Iran Green Movement protests (Jun–Jul 2009) | content | high |
-| Deep-dive: Michael Jackson death (Jun 25, 2009) | content | high |
+| Deep-dive: Barack Obama Nobel Peace Prize (Oct 9, 2009) | content | medium |
+| Deep-dive: Copenhagen Climate Conference COP15 (Dec 7–18, 2009) | content | medium |
+| Deep-dive: *Avatar* theatrical release (Dec 18, 2009) | content | medium |
 
 ## Backlog
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Barack Obama Nobel Peace Prize (Oct 9, 2009) | content | medium |
-| Deep-dive: Copenhagen Climate Conference COP15 (Dec 7–18, 2009) | content | medium |
-| Deep-dive: *Avatar* theatrical release (Dec 18, 2009) | content | medium |
 | Deep-dive: American Recovery and Reinvestment Act (Feb 17, 2009) | content | medium |
 | Deep-dive: Bitcoin genesis block (Jan 3, 2009) | content | medium |
 | Deep-dive: Fort Hood shooting (Nov 5, 2009) | content | medium |
@@ -36,6 +33,9 @@
 | Generate master INDEX.md | structure | 2026-06-13 |
 | Deep-dive: Barack Obama inauguration (Jan 20, 2009) | content | 2026-06-13 |
 | Deep-dive: H1N1 swine flu pandemic (Apr–Dec 2009) | content | 2026-06-13 |
+| Deep-dive: Miracle on the Hudson — US Airways Flight 1549 (Jan 15, 2009) | content | 2026-06-13 |
+| Deep-dive: Iran Green Movement protests (Jun–Jul 2009) | content | 2026-06-13 |
+| Deep-dive: Michael Jackson death (Jun 25, 2009) | content | 2026-06-13 |
 
 ## Ideas
 
