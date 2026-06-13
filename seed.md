@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2009 is the current instance, spawned from the year 2008.
 
-**Generation status: mature** — 3 ticks completed; replant imminent. Spawned from [year-of-ai/2008](https://github.com/year-of-ai/2008) — the year 2008.
+**Generation status: mature** — 3 ticks completed; replanted 2026-06-13. Spawned from [year-of-ai/2008](https://github.com/year-of-ai/2008). Successor: [year-of-ai/2010](https://github.com/year-of-ai/2010) — the year 2010.
 
 ## 3. Architecture (customization layer)
 
@@ -193,3 +193,21 @@ Third and final growth tick for the 2009 generation (replant threshold reached a
 - Updated `seed.md` §2: generation status updated to "mature — 3 ticks completed; replant imminent."
 - Updated `seed.md` §4: dedicated files 5→8, README links 5→8.
 - **Ticks this generation**: 3 — replant to year-of-ai/2010 follows this publish.
+
+---
+
+### Replant — 2026-06-13
+
+Generation closed. **year-of-ai/2009** (the year 2009) completed its lifecycle after 3 growth ticks.
+
+**Generation summary:**
+- 8 dedicated topic files created across History & Politics (5), Arts & Culture (2), Science & Technology (1).
+- 13-row knowledge table in README.md with 8 of 13 rows linked to dedicated files.
+- Full structural layer: TIMELINE.md, INDEX.md, 5 category index pages, all updated with file links.
+- Succession rule applied: "the year 2009" → **"the year 2010"**.
+- Successor repository spawned: [year-of-ai/2010](https://github.com/year-of-ai/2010).
+- `lifecycle.yml` state set to `mature`; lineage entry updated with `successor: year-of-ai/2010`.
+- README.md updated with mature status banner linking to successor.
+- Lineage position: 5 of 7 toward consolidation threshold.
+
+**Files planted in year-of-ai/2010:** `.github/`, `.claude/`, `CLAUDE.md`, `.gitignore`, `lifecycle.yml` (policy carried forward, state reset to growing/0 ticks, lineage extended).

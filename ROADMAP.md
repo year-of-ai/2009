@@ -2,22 +2,16 @@
 
 > Managed by the `plan-roadmap` skill. Do not hand-edit — rewritten each tick.
 > Tags: `content` | `structure` | `meta`
+>
+> **Generation status: mature** — replanted 2026-06-13. Successor: [year-of-ai/2010](https://github.com/year-of-ai/2010).
 
 ## Now
 
-_Nothing in progress — Tick 3 complete. Replant imminent._
+_Nothing — generation complete._
 
 ## Backlog
 
-| Item | Tag | Priority |
-|---|---|---|
-| Deep-dive: American Recovery and Reinvestment Act (Feb 17, 2009) | content | medium |
-| Deep-dive: Bitcoin genesis block (Jan 3, 2009) | content | medium |
-| Deep-dive: Fort Hood shooting (Nov 5, 2009) | content | medium |
-| Deep-dive: LHC first proton collisions (Nov 23, 2009) | content | medium |
-| Deep-dive: Uyghur unrest in Xinjiang (Jul 5, 2009) | content | low |
-| Add cross-reference ## Related blocks to topic files | structure | medium |
-| Periodic /evolve audit of .github/ layer | meta | low |
+_Empty — generation closed._
 
 ## Done
 
@@ -36,8 +30,15 @@ _Nothing in progress — Tick 3 complete. Replant imminent._
 | Generate master INDEX.md | structure | 2026-06-13 |
 | Genesis: seed.md, README.md, ROADMAP.md, .github/ layer | meta | 2026-06-13 |
 
-## Ideas
+## Ideas (deferred at replant — carry to year-of-ai/2010 if applicable)
 
+- Deep-dive: American Recovery and Reinvestment Act (Feb 17, 2009)
+- Deep-dive: Bitcoin genesis block (Jan 3, 2009)
+- Deep-dive: Fort Hood shooting (Nov 5, 2009)
+- Deep-dive: LHC first proton collisions (Nov 23, 2009)
+- Deep-dive: Uyghur unrest in Xinjiang (Jul 5, 2009)
+- Add cross-reference ## Related blocks to topic files
+- Periodic /evolve audit of .github/ layer
 - Deep-dive: Sri Lanka civil war ends (May 18, 2009)
 - Deep-dive: North Korea second nuclear test (May 25, 2009)
 - Deep-dive: Hubble Space Telescope final servicing mission STS-125 (May 2009)

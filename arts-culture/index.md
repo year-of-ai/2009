@@ -5,5 +5,6 @@ Works and events in arts and culture from the year 2009.
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
 | Topic | Description |
 |---|---|
-| *Avatar* theatrical release | James Cameron's *Avatar* opened on December 18, becoming the highest-grossing film of all time (surpassing *Titanic*) and a landmark in the adoption of 3D cinema technology. |
+| [Michael Jackson dies](michael-jackson-death-2009.md) | Pop star Michael Jackson died of acute propofol intoxication on June 25 at age 50, prompting a global outpouring of grief and renewed recognition of his cultural legacy. |
+| [*Avatar* theatrical release](avatar-2009.md) | James Cameron's *Avatar* opened on December 18, becoming the highest-grossing film of all time (surpassing *Titanic*) and a landmark in the adoption of 3D cinema technology. |
 <!-- END GENERATED: category-index -->
