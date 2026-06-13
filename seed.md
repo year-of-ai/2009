@@ -210,4 +210,4 @@ Generation closed. **year-of-ai/2009** (the year 2009) completed its lifecycle a
 - README.md updated with mature status banner linking to successor.
 - Lineage position: 5 of 7 toward consolidation threshold.
 
-**Files planted in year-of-ai/2010:** `.github/`, `.claude/`, `CLAUDE.md`, `.gitignore`, `lifecycle.yml` (policy carried forward, state reset to growing/0 ticks, lineage extended).
+**Files planted in year-of-ai/2010:** `.github/` (agents, instructions, prompts, skills — workflows omitted; PAT lacked `workflow` scope; shepherd fallback active), `.claude/`, `CLAUDE.md`, `.gitignore`, `lifecycle.yml` (policy carried forward, state reset to growing/0 ticks, lineage extended), `seed.md` (Concept Definition + genesis entry), `README.md` (13-row knowledge table for 2010), `ROADMAP.md` (backlog seeded from taxonomy).
