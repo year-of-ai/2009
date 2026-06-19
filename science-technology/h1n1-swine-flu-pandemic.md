@@ -26,3 +26,10 @@ The 2009 H1N1 pandemic was the first pandemic influenza event since 1968 and the
 - [Wikipedia — 2009 swine flu pandemic](https://en.wikipedia.org/wiki/2009_swine_flu_pandemic)
 - [CDC — 2009 H1N1 Pandemic (H1N1pdm09 virus)](https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/2009-h1n1-pandemic.html)
 - [CDC — First Global Estimates of 2009 H1N1 Pandemic Mortality](https://archive.cdc.gov/www_cdc_gov/flu/spotlights/pandemic-global-estimates.htm)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Copenhagen Climate Conference (COP15)](../history-politics/cop15-copenhagen-2009.md)
+- [Miracle on the Hudson — US Airways Flight 1549](../history-politics/miracle-on-the-hudson.md)
+<!-- END GENERATED: related -->

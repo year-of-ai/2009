@@ -30,3 +30,11 @@ The controversy surrounding the 2009 prize renewed broader discussions about the
 - [2009 Nobel Peace Prize — Wikipedia](https://en.wikipedia.org/wiki/2009_Nobel_Peace_Prize)
 - [The Nobel Peace Prize 2009 — NobelPrize.org](https://www.nobelprize.org/prizes/peace/2009/obama/facts/)
 - [2009 Nobel Peace Prize Awarded to President Barack Obama — U.S. Mission Geneva](https://geneva.usmission.gov/2009/10/09/nobel-peace-prize-200/)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Inauguration](obama-inauguration-2009.md)
+- [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md)
+- [Iran's Green Movement Protests (2009)](iran-green-movement-2009.md)
+<!-- END GENERATED: related -->

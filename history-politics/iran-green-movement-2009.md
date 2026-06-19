@@ -32,3 +32,11 @@ Although the Green Movement did not produce immediate political change — Ahmad
 - https://en.wikipedia.org/wiki/2009_Iranian_presidential_election_protests
 - https://iranprimer.usip.org/resource/green-movement
 - https://www.foreignaffairs.com/iran/irans-green-movement-never-went-away
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Death of Michael Jackson](../arts-culture/michael-jackson-death-2009.md)
+- [Barack Obama Awarded Nobel Peace Prize](obama-nobel-peace-prize-2009.md)
+- [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md)
+<!-- END GENERATED: related -->

@@ -34,3 +34,9 @@ The film's box office record stood until 2019, when *Avengers: Endgame* briefly 
 - [Avatar (2009 film) — Wikipedia](https://en.wikipedia.org/wiki/Avatar_(2009_film))
 - [Avatar (2009 film) — History.com](https://www.history.com/this-day-in-history/december-16/avatar-opens-in-theaters)
 - [Avatar Box Office Records — Saturation.io](https://saturation.io/budgets/avatar-2009)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Death of Michael Jackson](michael-jackson-death-2009.md)
+<!-- END GENERATED: related -->

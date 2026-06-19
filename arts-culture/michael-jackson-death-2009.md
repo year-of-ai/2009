@@ -32,3 +32,10 @@ The legal proceedings surrounding his death also had lasting significance for th
 - https://en.wikipedia.org/wiki/Death_of_Michael_Jackson
 - https://www.britannica.com/biography/Michael-Jackson
 - https://www.ebsco.com/research-starters/pharmacy-and-pharmacology/michael-jacksons-death
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [*Avatar* Theatrical Release (2009)](avatar-2009.md)
+- [Iran's Green Movement Protests (2009)](../history-politics/iran-green-movement-2009.md)
+<!-- END GENERATED: related -->

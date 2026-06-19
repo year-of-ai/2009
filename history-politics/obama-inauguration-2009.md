@@ -26,3 +26,11 @@ Obama's inauguration marked a transformative moment in American history: the ele
 - [Wikipedia — First inauguration of Barack Obama](https://en.wikipedia.org/wiki/First_inauguration_of_Barack_Obama)
 - [Obama Presidential Library (National Archives) — Presidential Inauguration 2009](https://obama.artifacts.archives.gov/events/16/presidential-inauguration-2009)
 - [CNN — Obama retakes oath of office after Roberts' mistake](https://www.cnn.com/2009/POLITICS/01/21/obama.oath/index.html)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama Awarded Nobel Peace Prize](obama-nobel-peace-prize-2009.md)
+- [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md)
+- [Miracle on the Hudson — US Airways Flight 1549](miracle-on-the-hudson.md)
+<!-- END GENERATED: related -->

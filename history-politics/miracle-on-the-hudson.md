@@ -32,3 +32,10 @@ The story entered popular culture, most prominently as the basis for Clint Eastw
 - https://en.wikipedia.org/wiki/US_Airways_Flight_1549
 - https://www.aerotime.aero/articles/miracle-on-the-hudson-us-airways-flight-1549
 - https://www.aopa.org/news-and-media/all-news/2019/january/16/crew-and-passengers-celebrate-2009-hudson-miracle-flight
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Inauguration](obama-inauguration-2009.md)
+- [2009 H1N1 Swine Flu Pandemic](../science-technology/h1n1-swine-flu-pandemic.md)
+<!-- END GENERATED: related -->

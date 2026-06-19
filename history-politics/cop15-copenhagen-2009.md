@@ -31,3 +31,11 @@ In the immediate political context of 2009, Copenhagen underscored both the cent
 - [Copenhagen Accord — Wikipedia](https://en.wikipedia.org/wiki/Copenhagen_Accord)
 - [Summary Report 7–19 December 2009 — IISD Earth Negotiations Bulletin](https://enb.iisd.org/copenhagen-climate-change-conference-cop15/summary-report)
 - [FCCC/CP/2009/L.7 — UNFCCC official document (Copenhagen Accord text)](https://unfccc.int/resource/docs/2009/cop15/eng/l07.pdf)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama Awarded Nobel Peace Prize](obama-nobel-peace-prize-2009.md)
+- [Barack Obama's Inauguration](obama-inauguration-2009.md)
+- [2009 H1N1 Swine Flu Pandemic](../science-technology/h1n1-swine-flu-pandemic.md)
+<!-- END GENERATED: related -->
