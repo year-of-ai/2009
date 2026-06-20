@@ -30,6 +30,7 @@ The 2009 H1N1 pandemic was the first pandemic influenza event since 1968 and the
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Large Hadron Collider First Proton Collisions](lhc-first-proton-collisions-2009.md)
+- [Bitcoin Genesis Block](bitcoin-genesis-block-2009.md)
 - [Copenhagen Climate Conference (COP15)](../history-politics/cop15-copenhagen-2009.md)
-- [Miracle on the Hudson — US Airways Flight 1549](../history-politics/miracle-on-the-hudson.md)
 <!-- END GENERATED: related -->

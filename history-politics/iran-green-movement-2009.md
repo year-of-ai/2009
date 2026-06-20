@@ -36,7 +36,7 @@ Although the Green Movement did not produce immediate political change — Ahmad
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
-- [Death of Michael Jackson](../arts-culture/michael-jackson-death-2009.md)
+- [Uyghur Unrest in Xinjiang](../society-economics/uyghur-unrest-xinjiang-2009.md)
 - [Barack Obama Awarded Nobel Peace Prize](obama-nobel-peace-prize-2009.md)
 - [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md)
 <!-- END GENERATED: related -->
