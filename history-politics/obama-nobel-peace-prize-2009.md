@@ -37,4 +37,5 @@ The controversy surrounding the 2009 prize renewed broader discussions about the
 - [Barack Obama's Inauguration](obama-inauguration-2009.md)
 - [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md)
 - [Iran's Green Movement Protests (2009)](iran-green-movement-2009.md)
+- [Fort Hood Shooting](fort-hood-shooting-2009.md)
 <!-- END GENERATED: related -->
