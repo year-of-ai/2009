@@ -31,7 +31,7 @@ Obama's inauguration marked a transformative moment in American history: the ele
 ## Related
 
 - [Barack Obama Awarded Nobel Peace Prize](obama-nobel-peace-prize-2009.md)
-- [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md)
+- [Sonia Sotomayor Confirmed to the Supreme Court](sotomayor-supreme-court-2009.md)
 - [Miracle on the Hudson — US Airways Flight 1549](miracle-on-the-hudson.md)
 - [American Recovery and Reinvestment Act](../society-economics/american-recovery-act-2009.md)
 <!-- END GENERATED: related -->

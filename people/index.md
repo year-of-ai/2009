@@ -7,4 +7,5 @@ Notable people and biographical events from the year 2009.
 |---|---|
 | [Michael Jackson dies](../arts-culture/michael-jackson-death-2009.md) | Pop star Michael Jackson died of acute propofol intoxication on June 25 at age 50, prompting a global outpouring of grief and renewed recognition of his cultural legacy. |
 | [Barack Obama awarded Nobel Peace Prize](../history-politics/obama-nobel-peace-prize-2009.md) | The Norwegian Nobel Committee awarded Barack Obama the 2009 Peace Prize on October 9, citing his efforts to strengthen international diplomacy and nuclear disarmament. |
+| [Sonia Sotomayor confirmed to Supreme Court](../history-politics/sotomayor-supreme-court-2009.md) | Confirmed by the Senate on August 6, Sonia Sotomayor became the first Hispanic and third woman to serve as a US Supreme Court justice. |
 <!-- END GENERATED: category-index -->
