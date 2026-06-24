@@ -39,4 +39,5 @@ The film's box office record stood until 2019, when *Avengers: Endgame* briefly 
 ## Related
 
 - [Death of Michael Jackson](michael-jackson-death-2009.md)
+- [*Up* (Pixar Film)](up-pixar-2009.md)
 <!-- END GENERATED: related -->

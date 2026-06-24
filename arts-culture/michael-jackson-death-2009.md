@@ -37,5 +37,6 @@ The legal proceedings surrounding his death also had lasting significance for th
 ## Related
 
 - [*Avatar* Theatrical Release (2009)](avatar-2009.md)
+- [*Up* (Pixar Film)](up-pixar-2009.md)
 - [Iran's Green Movement Protests (2009)](../history-politics/iran-green-movement-2009.md)
 <!-- END GENERATED: related -->
