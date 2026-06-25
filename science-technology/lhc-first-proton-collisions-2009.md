@@ -68,4 +68,5 @@ The recovery and restart of 2009 thus served as the indispensable precondition f
 - [Bitcoin Genesis Block](bitcoin-genesis-block-2009.md)
 - [Kepler Space Telescope Launch](kepler-space-telescope-launch-2009.md)
 - [2009 H1N1 Swine Flu Pandemic](h1n1-swine-flu-pandemic.md)
+- [Ardi (*Ardipithecus ramidus*) Unveiled](ardipithecus-ramidus-2009.md)
 <!-- END GENERATED: related -->

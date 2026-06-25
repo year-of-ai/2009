@@ -40,4 +40,5 @@ The film's box office record stood until 2019, when *Avengers: Endgame* briefly 
 
 - [Death of Michael Jackson](michael-jackson-death-2009.md)
 - [*Up* (Pixar Film)](up-pixar-2009.md)
+- [*Slumdog Millionaire* at the 81st Academy Awards](slumdog-millionaire-oscars-2009.md)
 <!-- END GENERATED: related -->

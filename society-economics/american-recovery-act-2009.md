@@ -82,4 +82,5 @@ The 2009 crisis and the ARRA response took place in the same year that [Bitcoin'
 - [Barack Obama's Inauguration](../history-politics/obama-inauguration-2009.md)
 - [Sonia Sotomayor Confirmed to the Supreme Court](../history-politics/sotomayor-supreme-court-2009.md)
 - [Uyghur Unrest in Xinjiang](uyghur-unrest-xinjiang-2009.md)
+- [General Motors Chapter 11 Bankruptcy](general-motors-bankruptcy-2009.md)
 <!-- END GENERATED: related -->
