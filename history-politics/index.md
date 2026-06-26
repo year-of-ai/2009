@@ -12,4 +12,5 @@ Events and developments in history and politics from the year 2009.
 | [Sonia Sotomayor confirmed to Supreme Court](sotomayor-supreme-court-2009.md) | The Senate confirmed Sonia Sotomayor 68–31 on August 6, making her the first Hispanic and third woman to serve as a US Supreme Court justice. |
 | [Fort Hood shooting](fort-hood-shooting-2009.md) | US Army psychiatrist Nidal Hasan opened fire at Fort Hood, Texas on November 5, killing 13 people and wounding 30 in the deadliest attack on a US military base in history. |
 | [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md) | The 15th UN Climate Change Conference convened in Copenhagen from December 7–18, drawing 115 world leaders; the resulting Copenhagen Accord fell short of a legally binding treaty. |
+| [End of the Sri Lankan Civil War](sri-lankan-civil-war-end-2009.md) | Government forces captured the last LTTE territory and killed leader Velupillai Prabhakaran on May 18, ending a 26-year civil war in a decisive military victory. |
 <!-- END GENERATED: category-index -->
