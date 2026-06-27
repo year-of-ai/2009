@@ -9,4 +9,5 @@ Works and events in arts and culture from the year 2009.
 | [*Avatar* theatrical release](avatar-2009.md) | James Cameron's *Avatar* opened on December 18, becoming the highest-grossing film of all time (surpassing *Titanic*) and a landmark in the adoption of 3D cinema technology. |
 | [*Up* theatrical release](up-pixar-2009.md) | Pixar released *Up* on May 29, an emotionally ambitious animated feature that earned critical acclaim and a Best Picture Oscar nomination, becoming a modern animation classic. |
 | [*Slumdog Millionaire* at the 81st Academy Awards](slumdog-millionaire-oscars-2009.md) | Danny Boyle's film won eight Oscars including Best Picture on February 22, a landmark crossover success for internationally produced cinema and a breakthrough for composer A. R. Rahman. |
+| [51st Grammy Awards](grammy-awards-2009.md) | Robert Plant and Alison Krauss's *Raising Sand* won Album of the Year at the February 8 ceremony, which also named Adele Best New Artist and featured a record-setting number of live performances. |
 <!-- END GENERATED: category-index -->

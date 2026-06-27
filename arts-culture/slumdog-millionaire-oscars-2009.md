@@ -47,6 +47,7 @@ The film's near-sweep at the 2009 ceremony underscored a broader internationaliz
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [51st Grammy Awards](grammy-awards-2009.md)
 - [*Up* (Pixar Film)](up-pixar-2009.md)
 - [*Avatar* Theatrical Release (2009)](avatar-2009.md)
 - [Death of Michael Jackson](michael-jackson-death-2009.md)

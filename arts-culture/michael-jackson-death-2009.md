@@ -36,7 +36,7 @@ The legal proceedings surrounding his death also had lasting significance for th
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [51st Grammy Awards](grammy-awards-2009.md)
+- [Kanye West Interrupts Taylor Swift at the MTV VMAs](../people/kanye-west-taylor-swift-vma-2009.md)
 - [*Avatar* Theatrical Release (2009)](avatar-2009.md)
-- [*Up* (Pixar Film)](up-pixar-2009.md)
-- [Iran's Green Movement Protests (2009)](../history-politics/iran-green-movement-2009.md)
 <!-- END GENERATED: related -->
