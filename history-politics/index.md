@@ -13,4 +13,5 @@ Events and developments in history and politics from the year 2009.
 | [Fort Hood shooting](fort-hood-shooting-2009.md) | US Army psychiatrist Nidal Hasan opened fire at Fort Hood, Texas on November 5, killing 13 people and wounding 30 in the deadliest attack on a US military base in history. |
 | [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md) | The 15th UN Climate Change Conference convened in Copenhagen from December 7–18, drawing 115 world leaders; the resulting Copenhagen Accord fell short of a legally binding treaty. |
 | [End of the Sri Lankan Civil War](sri-lankan-civil-war-end-2009.md) | Government forces captured the last LTTE territory and killed leader Velupillai Prabhakaran on May 18, ending a 26-year civil war in a decisive military victory. |
+| [Sarah Palin resigns as Alaska governor](palin-alaska-resignation-2009.md) | Governor Sarah Palin announced her mid-term resignation on July 3, effective July 26, repositioning herself as a national Tea Party figure. |
 <!-- END GENERATED: category-index -->
