@@ -50,4 +50,5 @@ The GM bankruptcy was a defining episode of the Great Recession and one of the m
 - [American Recovery and Reinvestment Act](american-recovery-act-2009.md)
 - [Bitcoin Genesis Block](../science-technology/bitcoin-genesis-block-2009.md)
 - [Barack Obama's Inauguration](../history-politics/obama-inauguration-2009.md)
+- [Cash for Clunkers (Car Allowance Rebate System)](cash-for-clunkers-2009.md)
 <!-- END GENERATED: related -->

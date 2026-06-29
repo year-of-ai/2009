@@ -50,4 +50,5 @@ Beyond price, the Falcon 9's eventual development of propulsive first-stage land
 
 - [Kepler Space Telescope Launch](kepler-space-telescope-launch-2009.md)
 - [Bitcoin Genesis Block](bitcoin-genesis-block-2009.md)
+- [Windows 7 General Availability](windows-7-release-2009.md)
 <!-- END GENERATED: related -->

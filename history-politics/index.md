@@ -14,4 +14,5 @@ Events and developments in history and politics from the year 2009.
 | [Copenhagen Climate Conference (COP15)](cop15-copenhagen-2009.md) | The 15th UN Climate Change Conference convened in Copenhagen from December 7–18, drawing 115 world leaders; the resulting Copenhagen Accord fell short of a legally binding treaty. |
 | [End of the Sri Lankan Civil War](sri-lankan-civil-war-end-2009.md) | Government forces captured the last LTTE territory and killed leader Velupillai Prabhakaran on May 18, ending a 26-year civil war in a decisive military victory. |
 | [Sarah Palin resigns as Alaska governor](palin-alaska-resignation-2009.md) | Governor Sarah Palin announced her mid-term resignation on July 3, effective July 26, repositioning herself as a national Tea Party figure. |
+| [Air France Flight 447 disaster](air-france-447-2009.md) | An Airbus A330 crashed into the South Atlantic on June 1, killing all 228 aboard; the investigation reshaped aviation safety around pitot-tube icing and high-altitude stall recovery. |
 <!-- END GENERATED: category-index -->

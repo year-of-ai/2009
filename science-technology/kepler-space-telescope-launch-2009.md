@@ -60,4 +60,5 @@ William Borucki received numerous honors for the mission, including the Gruber P
 - [Large Hadron Collider First Proton Collisions](lhc-first-proton-collisions-2009.md)
 - [SpaceX Falcon 9 Development](spacex-falcon-9-first-flight-2009.md)
 - [Ardi (*Ardipithecus ramidus*) Unveiled](ardipithecus-ramidus-2009.md)
+- [Windows 7 General Availability](windows-7-release-2009.md)
 <!-- END GENERATED: related -->

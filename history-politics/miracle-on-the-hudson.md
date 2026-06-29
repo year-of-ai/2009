@@ -38,4 +38,5 @@ The story entered popular culture, most prominently as the basis for Clint Eastw
 
 - [Barack Obama's Inauguration](obama-inauguration-2009.md)
 - [2009 H1N1 Swine Flu Pandemic](../science-technology/h1n1-swine-flu-pandemic.md)
+- [Air France Flight 447 Disaster](air-france-447-2009.md)
 <!-- END GENERATED: related -->

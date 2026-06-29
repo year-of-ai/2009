@@ -39,4 +39,5 @@ The Madoff affair became the defining white-collar fraud of the Great Recession 
 - [General Motors Chapter 11 bankruptcy](general-motors-bankruptcy-2009.md)
 - [American Recovery and Reinvestment Act](american-recovery-act-2009.md)
 - [Bitcoin Genesis Block](../science-technology/bitcoin-genesis-block-2009.md)
+- [Cash for Clunkers (Car Allowance Rebate System)](cash-for-clunkers-2009.md)
 <!-- END GENERATED: related -->
