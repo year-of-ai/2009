@@ -37,4 +37,5 @@ The defeat of the LTTE ended one of Asia's longest-running civil wars and disman
 - [Iran's Green Movement protests](iran-green-movement-2009.md)
 - [Uyghur unrest in Xinjiang](../society-economics/uyghur-unrest-xinjiang-2009.md)
 - [Fort Hood shooting](fort-hood-shooting-2009.md)
+- [India's 2009 General Election](india-election-2009.md)
 <!-- END GENERATED: related -->
