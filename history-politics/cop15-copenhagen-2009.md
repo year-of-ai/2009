@@ -38,4 +38,5 @@ In the immediate political context of 2009, Copenhagen underscored both the cent
 - [Barack Obama Awarded Nobel Peace Prize](obama-nobel-peace-prize-2009.md)
 - [Barack Obama's Inauguration](obama-inauguration-2009.md)
 - [2009 H1N1 Swine Flu Pandemic](../science-technology/h1n1-swine-flu-pandemic.md)
+- [G20 Pittsburgh Summit](g20-pittsburgh-summit-2009.md)
 <!-- END GENERATED: related -->

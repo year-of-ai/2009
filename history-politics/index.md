@@ -17,4 +17,5 @@ Events and developments in history and politics from the year 2009.
 | [Air France Flight 447 disaster](air-france-447-2009.md) | An Airbus A330 crashed into the South Atlantic on June 1, killing all 228 aboard; the investigation reshaped aviation safety around pitot-tube icing and high-altitude stall recovery. |
 | [Maersk Alabama hijacking](maersk-alabama-hijacking-2009.md) | Somali pirates seized the US-flagged container ship on April 8 and took Captain Richard Phillips hostage; Navy SEAL snipers freed him on April 12 in the first hijacking of a US-flagged ship in some two centuries. |
 | [India's 2009 General Election](india-election-2009.md) | India held the world's largest election across five phases from April 16 to May 13; the Congress-led UPA won 262 seats, returning Manmohan Singh for a second term after results were declared on May 16. |
+| [G20 Pittsburgh Summit](g20-pittsburgh-summit-2009.md) | Leaders of the world's largest economies met on September 24–25 and designated the G20 the premier forum for international economic cooperation, embedding emerging economies in global financial governance. |
 <!-- END GENERATED: category-index -->

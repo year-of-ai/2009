@@ -46,4 +46,5 @@ Ted Kennedy's nearly 47-year Senate tenure made him one of the longest-serving s
 - [Barack Obama's Inauguration](../history-politics/obama-inauguration-2009.md)
 - [Sonia Sotomayor Confirmed to the Supreme Court](../history-politics/sotomayor-supreme-court-2009.md)
 - [American Recovery and Reinvestment Act](../society-economics/american-recovery-act-2009.md)
+- [Death of Patrick Swayze](patrick-swayze-death-2009.md)
 <!-- END GENERATED: related -->

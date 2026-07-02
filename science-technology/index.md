@@ -12,4 +12,5 @@ Developments in science and technology from the year 2009.
 | [SpaceX Falcon 9 development](spacex-falcon-9-first-flight-2009.md) | SpaceX advanced its Falcon 9 rocket through 2009 with nine-engine static fires and a $1.6 billion NASA cargo contract, laying the groundwork for the commercial spaceflight era. |
 | [Ardi (*Ardipithecus ramidus*) unveiled](ardipithecus-ramidus-2009.md) | *Science* published the first comprehensive analysis of the 4.4-million-year-old skeleton "Ardi" on October 1, reshaping understanding of early human evolution and named its Breakthrough of the Year. |
 | [Windows 7 general availability](windows-7-release-2009.md) | Microsoft released Windows 7 on October 22, a well-received recovery from Windows Vista that became the company's fastest-selling operating system. |
+| [Wolfram Alpha launches](wolfram-alpha-launch-2009.md) | Wolfram Research's computational knowledge engine went live on May 18, pioneering a curated, computation-first alternative to search that computes answers to natural-language questions. |
 <!-- END GENERATED: category-index -->
