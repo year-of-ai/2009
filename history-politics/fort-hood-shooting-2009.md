@@ -61,4 +61,5 @@ The Fort Hood tragedy also intersected with the early months of the [Barack Obam
 
 - [Barack Obama's Inauguration](obama-inauguration-2009.md)
 - [Miracle on the Hudson — US Airways Flight 1549](miracle-on-the-hudson.md)
+- [Maersk Alabama Hijacking and Rescue of Captain Richard Phillips](maersk-alabama-hijacking-2009.md)
 <!-- END GENERATED: related -->
