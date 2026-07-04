@@ -36,8 +36,8 @@ The legal proceedings surrounding his death also had lasting significance for th
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Michael Jackson Memorial Service](michael-jackson-memorial-service-2009.md)
 - [51st Grammy Awards](grammy-awards-2009.md)
 - [Kanye West Interrupts Taylor Swift at the MTV VMAs](../people/kanye-west-taylor-swift-vma-2009.md)
-- [*Avatar* Theatrical Release (2009)](avatar-2009.md)
 - [Death of Patrick Swayze](../people/patrick-swayze-death-2009.md)
 <!-- END GENERATED: related -->

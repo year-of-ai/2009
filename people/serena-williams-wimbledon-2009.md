@@ -79,6 +79,6 @@ The final over Venus also cemented their rivalry as the longest and most signifi
 - [Usain Bolt's 2009 World Records (August 2009)](usain-bolt-2009-world-records.md) — concurrent athletic achievement redefining sport's boundaries; Bolt and Serena together made 2009 a landmark year for Black athletic excellence
 - [Barack Obama's Inauguration (January 2009)](../history-politics/obama-inauguration-2009.md) — cultural backdrop of 2009 as a year of expanded representation and new milestones for Black Americans
 - [Kanye West Interrupts Taylor Swift at the VMAs (September 2009)](kanye-west-taylor-swift-vma-2009.md) — 2009 sports and entertainment cultural moments that defined the year's celebrity discourse
-- [Death of Senator Ted Kennedy (August 2009)](ted-kennedy-death-2009.md) — notable people milestones of 2009 shaping public attention in a defining year
+- [Roger Federer's 15th Grand Slam at Wimbledon (July 2009)](roger-federer-15th-grand-slam-2009.md) — the men's champion at the same 2009 Wimbledon, whose record-breaking 15th major capped the tournament a day after Serena's women's title
 
 <!-- END GENERATED: related -->
