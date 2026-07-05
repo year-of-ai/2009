@@ -69,4 +69,5 @@ The Kelvin Timeline spawned two additional films and ongoing fan engagement, whi
 - [*Avatar* theatrical release](avatar-2009.md)
 - [*Slumdog Millionaire* at the 81st Academy Awards](slumdog-millionaire-oscars-2009.md)
 - [*Up* (Pixar Film)](up-pixar-2009.md)
+- [*Watchmen* Film Adaptation](watchmen-2009-film.md)
 <!-- END GENERATED: related -->

@@ -13,4 +13,5 @@ Works and events in arts and culture from the year 2009.
 | [*Star Trek* film reboot](star-trek-2009-film.md) | J.J. Abrams' reboot opened May 8, reviving the dormant franchise via an alternate "Kelvin Timeline" and grossing $385.7 million worldwide. |
 | [Susan Boyle's *Britain's Got Talent* breakthrough](susan-boyle-bgt-2009.md) | The Scottish singer's April 11 audition became an early viral-video phenomenon, drawing roughly 100 million views within a week. |
 | [Michael Jackson Memorial Service](michael-jackson-memorial-service-2009.md) | A public memorial service for Michael Jackson was held July 7 at Los Angeles's Staples Center, drawing an estimated 1.6 million ticket requests and reaching 2.5+ billion global television viewers, reflecting his unprecedented cultural influence. |
+| [*Watchmen* film adaptation](watchmen-2009-film.md) | Zack Snyder's live-action adaptation of the 1986 graphic novel released March 6, bringing the morally complex superhero story to cinema with visual fidelity and thematic depth, grossing $185.3 million worldwide. |
 <!-- END GENERATED: category-index -->

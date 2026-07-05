@@ -63,4 +63,5 @@ The film's opening sequence remains iconic in cinema history, and its worldwide 
 - [*Avatar* Theatrical Release (2009)](avatar-2009.md)
 - [Death of Michael Jackson](michael-jackson-death-2009.md)
 - [*Slumdog Millionaire* at the 81st Academy Awards](slumdog-millionaire-oscars-2009.md)
+- [*Watchmen* Film Adaptation](watchmen-2009-film.md)
 <!-- END GENERATED: related -->

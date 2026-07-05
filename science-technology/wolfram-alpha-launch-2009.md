@@ -68,11 +68,11 @@ Wolfram Alpha also helped establish the category of "knowledge engine" as distin
 - [Wolfram Alpha Computes Answers to Questions — New York Times, May 18, 2009](https://www.nytimes.com/2009/05/19/technology/internet/19wolf.html)
 - [A New Kind of Web Search — Wired, April 2009](https://www.wired.com/2009/04/wolfram-alpha-a-new-kind-of-web-search/)
 
-<!-- BEGIN GENERATED: related -->
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
-- [Windows 7 general availability](windows-7-release-2009.md)
-- [Bitcoin genesis block mined](bitcoin-genesis-block-2009.md)
-- [Kepler Space Telescope launched](kepler-space-telescope-launch-2009.md)
-
+- [Google Chrome Browser: 2009 Milestones](google-chrome-launch-2009.md)
+- [Amazon Kindle E-reader Expansion](kindle-ereader-launch-2009.md)
+- [Windows 7 General Availability](windows-7-release-2009.md)
+- [Bitcoin Genesis Block](bitcoin-genesis-block-2009.md)
 <!-- END GENERATED: related -->
