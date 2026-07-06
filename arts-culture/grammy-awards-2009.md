@@ -57,4 +57,5 @@ The 2009 Grammy Awards illustrated the Recording Academy's tendency to recognize
 - [Kanye West Interrupts Taylor Swift at the MTV VMAs](../people/kanye-west-taylor-swift-vma-2009.md)
 - [Death of Michael Jackson](michael-jackson-death-2009.md)
 - [*Slumdog Millionaire* at the 81st Academy Awards](slumdog-millionaire-oscars-2009.md)
+- [The Beatles 09/09/09 remasters](beatles-remasters-2009.md)
 <!-- END GENERATED: related -->

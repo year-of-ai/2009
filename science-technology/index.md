@@ -15,4 +15,5 @@ Developments in science and technology from the year 2009.
 | [Wolfram Alpha launches](wolfram-alpha-launch-2009.md) | Wolfram Research's computational knowledge engine went live on May 18, pioneering a curated, computation-first alternative to search that computes answers to natural-language questions. |
 | [Amazon Kindle e-reader expansion](kindle-ereader-launch-2009.md) | Amazon released the redesigned Kindle 2 in February and the large-screen Kindle DX in June, establishing the e-reader as a mass-market device and accelerating publishing's shift from print to digital. |
 | [Google Chrome's 2009 rise](google-chrome-launch-2009.md) | Google Chrome, launched as a beta in September 2008, matured rapidly through 2009 — shipping stable versions 2.0 and 3.0 and multiplying its market share on the strength of its V8 JavaScript engine and multi-process design. |
+| [Microsoft Bing launches](microsoft-bing-launch-2009.md) | Microsoft launched Bing on June 3 as a "decision engine" to replace Live Search; a July search partnership with Yahoo! reshaped the competitive landscape against Google. |
 <!-- END GENERATED: category-index -->

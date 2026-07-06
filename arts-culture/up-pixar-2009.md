@@ -25,7 +25,7 @@ The opening "Married Life" montage was a deliberate creative risk, condensing an
 
 ## Critical and Commercial Reception
 
-*Up* earned near-universal critical acclaim upon release, achieving a 98% approval rating on Rotten Tomatoes based on hundreds of reviews. The film opened to $68.1 million in its first weekend in North America, eventually earning $293.0 million domestically and $735.1 million worldwide, making it the third-highest-grossing film of 2009 globally and one of the most successful animated features to that date.
+*Up* earned near-universal critical acclaim upon release, achieving a 98% approval rating on Rotten Tomatoes based on hundreds of reviews. The film opened to $68.1 million in its first weekend in North America, eventually earning $293.0 million domestically and $735.1 million worldwide, ranking among the highest-grossing films of 2009 globally and standing as one of the most successful animated features to that date.
 
 At the 82nd Academy Awards (March 2010), *Up* received five nominations:
 

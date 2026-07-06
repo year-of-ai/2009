@@ -53,8 +53,8 @@ The Chrome launch paralleled other significant 2009 digital platform events, inc
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
-- [Amazon Kindle E-reader Expansion](kindle-ereader-launch-2009.md)
+- [Microsoft Bing launches](microsoft-bing-launch-2009.md)
 - [Wolfram Alpha Launch](wolfram-alpha-launch-2009.md)
 - [Windows 7 General Availability](windows-7-release-2009.md)
-- [Bitcoin Genesis Block](bitcoin-genesis-block-2009.md)
+- [Amazon Kindle E-reader Expansion](kindle-ereader-launch-2009.md)
 <!-- END GENERATED: related -->
