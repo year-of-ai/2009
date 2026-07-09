@@ -1,6 +1,6 @@
 ---
 title: "Google Chrome Browser: 2009 Milestones"
-date: "2009-09-15"
+date: 2009-09-15
 category: "Science & Technology"
 ---
 

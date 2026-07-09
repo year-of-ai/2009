@@ -1,6 +1,6 @@
 ---
 title: "Gaza War and Ceasefire (2008–2009)"
-date: "2009-01-18"
+date: 2009-01-18
 category: "History & Politics"
 ---
 

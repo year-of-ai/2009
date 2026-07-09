@@ -1,6 +1,6 @@
 ---
 title: "Death of Michael Jackson (June 25, 2009)"
-date: "2009-06-25"
+date: 2009-06-25
 category: "Arts & Culture"
 ---
 

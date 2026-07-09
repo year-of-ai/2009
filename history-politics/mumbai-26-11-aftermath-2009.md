@@ -1,6 +1,6 @@
 ---
 title: "Mumbai Terror Attacks Aftermath (2009)"
-date: "2009-07-06"
+date: 2009-07-06
 category: "History & Politics"
 ---
 

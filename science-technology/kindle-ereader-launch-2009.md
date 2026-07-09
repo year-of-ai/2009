@@ -1,6 +1,6 @@
 ---
 title: "Amazon Kindle E-reader Expansion (2009)"
-date: "2009-02-09"
+date: 2009-02-09
 category: "Science & Technology"
 ---
 

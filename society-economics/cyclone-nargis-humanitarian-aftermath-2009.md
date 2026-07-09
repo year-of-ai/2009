@@ -1,6 +1,6 @@
 ---
 title: "Cyclone Nargis Humanitarian Aftermath (2009)"
-date: "2009-05-03"
+date: 2009-05-03
 category: "Society & Economics"
 ---
 

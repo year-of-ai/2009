@@ -12,4 +12,5 @@ Social and economic events and developments from the year 2009.
 | [Cash for Clunkers (Car Allowance Rebate System)](cash-for-clunkers-2009.md) | The $3 billion federal scrappage program ran July–August, scrapping roughly 677,000 vehicles to spur recession-era auto sales and improve fuel efficiency. |
 | [Chrysler Chapter 11 bankruptcy](chrysler-bankruptcy-2009.md) | Chrysler filed for bankruptcy on April 30 in a government-backed Section 363 sale that allied it with Fiat, establishing the template for the General Motors reorganization weeks later. |
 | [Cyclone Nargis humanitarian aftermath (2009)](cyclone-nargis-humanitarian-aftermath-2009.md) | The prolonged 2009 aftermath of Myanmar's 2008 cyclone — junta aid obstruction, diverted relief, disease, and stalled reconstruction — became the decade's defining humanitarian crisis and a test case for the Responsibility to Protect doctrine. |
+| [2009 L'Aquila earthquake](laquila-earthquake-2009.md) | A magnitude-6.3 earthquake struck L'Aquila, Italy on April 6, killing 308 and leaving tens of thousands homeless; Italy relocated that July's G8 summit to the ruined city. |
 <!-- END GENERATED: category-index -->

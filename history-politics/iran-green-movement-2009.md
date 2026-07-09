@@ -1,6 +1,6 @@
 ---
 title: "Iran's Green Movement Protests (2009)"
-date: "2009-06-12"
+date: 2009-06-12
 category: "History & Politics"
 ---
 

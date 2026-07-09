@@ -1,6 +1,6 @@
 ---
 title: "*Watchmen* Film Adaptation"
-date: "2009-03-06"
+date: 2009-03-06
 category: "Arts & Culture"
 ---
 

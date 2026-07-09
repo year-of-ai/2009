@@ -1,6 +1,6 @@
 ---
 title: "Miracle on the Hudson — US Airways Flight 1549"
-date: "2009-01-15"
+date: 2009-01-15
 category: "History & Politics"
 ---
 
