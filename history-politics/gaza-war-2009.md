@@ -55,6 +55,10 @@ The World Food Programme reported in mid-2009 that 61% of Gaza's population of 1
 
 Médecins Sans Frontières and the International Committee of the Red Cross submitted joint reports in 2009 documenting the medical system's collapse: hospitals lacked surgical supplies, anesthetics, and replacement parts for imaging equipment. The sole power plant in Gaza operated at 30–45% capacity, causing rolling blackouts of 8–12 hours daily, affecting hospital generators, water pumps, and refrigeration for medicines.
 
+## Significance
+
+The Gaza War defined the opening weeks of 2009 and left a durable political and legal legacy. Domestically, it closed out the Olmert government and helped return Benjamin Netanyahu to power at the head of a right-wing coalition, marking a lasting rightward shift in Israeli politics that complicated the incoming Obama administration's peace overtures. Diplomatically, it triggered the rupture in Israeli–Turkish relations dramatized by the Erdoğan–Peres confrontation at Davos, and it strengthened Hamas's standing in Gaza relative to Mahmoud Abbas's Palestinian Authority. The Goldstone Report — and Richard Goldstone's later partial retraction — became a landmark reference in the international debate over accountability for military conduct in asymmetric urban warfare. The continued blockade and stalled reconstruction entrenched a humanitarian crisis that shaped Gaza's trajectory well beyond 2009.
+
 ## Sources
 
 - https://en.wikipedia.org/wiki/2008%E2%80%932009_Gaza_War

@@ -47,6 +47,10 @@ The attack's multinational victim profile — Americans, British, Israelis, Aust
 
 The US State Department added LeT to its Foreign Terrorist Organization list in 2001 and increased pressure on Pakistan through 2009 to dismantle the group. The Obama administration's newly appointed AfPak envoy Richard Holbrooke visited Islamabad repeatedly in 2009, pressing for action against LeT alongside the US-led pressure on Pakistan to cut Taliban sanctuaries in the northwest. For details of India's domestic electoral response, see [India's 2009 General Election](india-election-2009.md).
 
+## Significance
+
+The 2009 aftermath of the 26/11 attacks reshaped India's security posture and its relationship with Pakistan. Kasab's trial produced the definitive evidentiary record linking the operation to Lashkar-e-Taiba and Pakistan-based handlers, while the attacks' exposure of catastrophic coordination and equipment failures drove India's most sweeping internal-security overhaul in decades — the constitution of the National Investigation Agency, new National Security Guard regional hubs, Maharashtra's Force One unit, and an overhaul of coastal surveillance and multi-agency intelligence sharing. Diplomatically, the attacks froze the India–Pakistan composite dialogue indefinitely and internationalized pressure on Pakistan over LeT and Jamaat-ud-Dawa, reinforced by the UN 1267 designation and the October 2009 arrest of David Headley. The episode became a defining reference point for counter-terrorism policy across South Asia.
+
 ## Sources
 
 - https://en.wikipedia.org/wiki/2008_Mumbai_attacks
