@@ -52,3 +52,10 @@ The L'Aquila earthquake was one of the deadliest natural disasters in Italy in d
 - [The L'Aquila Earthquake of 6 April 2009 and Italian Government Policy on Disaster Response — Journal of Homeland Security and Emergency Management](https://www.tandfonline.com/doi/full/10.1080/19390459.2010.511450)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Cyclone Nargis Humanitarian Aftermath (2009)]({{ '/news/society-economics/cyclone-nargis-humanitarian-aftermath-2009/' | relative_url }})
+- [Air France Flight 447 Disaster]({{ '/news/history-politics/air-france-447-2009/' | relative_url }})
+- [G20 Pittsburgh Summit]({{ '/news/history-politics/g20-pittsburgh-summit-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+<!-- END GENERATED: related -->

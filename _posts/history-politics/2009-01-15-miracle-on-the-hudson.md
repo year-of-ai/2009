@@ -38,3 +38,9 @@ The story entered popular culture, most prominently as the basis for Clint Eastw
 - https://www.aopa.org/news-and-media/all-news/2019/january/16/crew-and-passengers-celebrate-2009-hudson-miracle-flight
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [2009 H1N1 Swine Flu Pandemic]({{ '/news/science-technology/h1n1-swine-flu-pandemic/' | relative_url }})
+- [Air France Flight 447 Disaster]({{ '/news/history-politics/air-france-447-2009/' | relative_url }})
+<!-- END GENERATED: related -->

@@ -35,3 +35,9 @@ The program became a widely studied case in stimulus economics. Subsequent analy
 - [Cash for clunkers: CARS program beats all expectations — Consumer Reports](https://www.consumerreports.org/cro/news/2009/08/cash-for-clunkers-cars-program-beats-all-expectations/index.htm)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+- [General Motors Chapter 11 Bankruptcy]({{ '/news/society-economics/general-motors-bankruptcy-2009/' | relative_url }})
+- [Bernie Madoff Sentenced for Ponzi Scheme]({{ '/news/society-economics/madoff-sentencing-2009/' | relative_url }})
+<!-- END GENERATED: related -->

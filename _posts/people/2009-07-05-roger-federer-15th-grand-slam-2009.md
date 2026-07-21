@@ -67,3 +67,10 @@ For Wimbledon specifically, the 2009 final remains one of the most discussed mat
 - [BBC Sport — Federer breaks Sampras record, July 5, 2009](https://www.bbc.co.uk/sport/tennis)
 
 <!-- BEGIN GENERATED: related -->
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Serena Williams' 2009 Wimbledon Championship]({{ '/news/people/serena-williams-wimbledon-2009/' | relative_url }})
+- [Usain Bolt's 2009 World Records]({{ '/news/people/usain-bolt-2009-world-records/' | relative_url }})
+<!-- END GENERATED: related -->

@@ -68,3 +68,10 @@ The recovery and restart of 2009 thus served as the indispensable precondition f
 - Heuer, Rolf-Dieter (2009): CERN Director-General end-of-year address — archived at https://home.cern/
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Bitcoin Genesis Block]({{ '/news/science-technology/bitcoin-genesis-block-2009/' | relative_url }})
+- [Kepler Space Telescope Launch]({{ '/news/science-technology/kepler-space-telescope-launch-2009/' | relative_url }})
+- [2009 H1N1 Swine Flu Pandemic]({{ '/news/science-technology/h1n1-swine-flu-pandemic/' | relative_url }})
+- [Ardi (*Ardipithecus ramidus*) Unveiled]({{ '/news/science-technology/ardipithecus-ramidus-2009/' | relative_url }})
+<!-- END GENERATED: related -->

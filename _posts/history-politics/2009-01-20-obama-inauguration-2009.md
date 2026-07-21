@@ -33,3 +33,10 @@ Obama's inauguration marked a transformative moment in American history: the ele
 - [CNN — Obama retakes oath of office after Roberts' mistake](https://www.cnn.com/2009/POLITICS/01/21/obama.oath/index.html)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama Awarded Nobel Peace Prize]({{ '/news/history-politics/obama-nobel-peace-prize-2009/' | relative_url }})
+- [Sonia Sotomayor Confirmed to the Supreme Court]({{ '/news/history-politics/sotomayor-supreme-court-2009/' | relative_url }})
+- [Miracle on the Hudson — US Airways Flight 1549]({{ '/news/history-politics/miracle-on-the-hudson/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+<!-- END GENERATED: related -->

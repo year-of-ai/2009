@@ -53,3 +53,10 @@ Patrick Swayze's death underscored the particular public grief associated with e
 - [Ghost (1990) — Box Office Mojo](https://www.boxofficemojo.com/title/tt0099653/)
 
 <!-- BEGIN GENERATED: related -->
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Michael Jackson dies]({{ '/news/arts-culture/michael-jackson-death-2009/' | relative_url }})
+- [Death of Senator Ted Kennedy]({{ '/news/people/ted-kennedy-death-2009/' | relative_url }})
+<!-- END GENERATED: related -->

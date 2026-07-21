@@ -51,3 +51,10 @@ The GM bankruptcy was a defining episode of the Great Recession and one of the m
 - [General Motors — Eye on the Bailout — ProPublica](https://projects.propublica.org/bailout/entities/233-general-motors)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Chrysler Chapter 11 Bankruptcy]({{ '/news/society-economics/chrysler-bankruptcy-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [Cash for Clunkers (Car Allowance Rebate System)]({{ '/news/society-economics/cash-for-clunkers-2009/' | relative_url }})
+<!-- END GENERATED: related -->

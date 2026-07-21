@@ -56,3 +56,11 @@ The 09/09/09 remasters represented the most thorough restoration of the Beatles'
 - Rolling Stone: "The Beatles' Remastered Albums Due September 9, 2009." [https://www.rollingstone.com/music/music-news/the-beatles-remastered-albums-due-september-9-2009-104136/](https://www.rollingstone.com/music/music-news/the-beatles-remastered-albums-due-september-9-2009-104136/)
 - CNBC: "Consumers Buried Paul: 'Beatles Rock Band' a Sales Dud," October 20, 2009. [https://www.cnbc.com/2009/10/20/consumers-buried-paul-beatles-rock-band-a-sales-dud.html](https://www.cnbc.com/2009/10/20/consumers-buried-paul-beatles-rock-band-a-sales-dud.html)
 - Apple Inc. newsroom: "The Beatles Now on iTunes," November 16, 2010 (for the later digital release). [https://www.apple.com/newsroom/2010/11/16The-Beatles-Now-on-iTunes/](https://www.apple.com/newsroom/2010/11/16The-Beatles-Now-on-iTunes/)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [51st Grammy Awards]({{ '/news/arts-culture/grammy-awards-2009/' | relative_url }})
+- [Michael Jackson death and memorial]({{ '/news/arts-culture/michael-jackson-death-2009/' | relative_url }})
+- [Amazon Kindle e-reader expansion]({{ '/news/science-technology/kindle-ereader-launch-2009/' | relative_url }})
+<!-- END GENERATED: related -->

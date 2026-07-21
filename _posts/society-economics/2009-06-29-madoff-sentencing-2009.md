@@ -38,3 +38,10 @@ The Madoff affair became the defining white-collar fraud of the Great Recession 
 - [Bernard Madoff sentenced to 150 years — CNNMoney](https://money.cnn.com/2009/06/29/news/economy/madoff_prison_sentence/index.htm)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [General Motors Chapter 11 bankruptcy]({{ '/news/society-economics/general-motors-bankruptcy-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+- [Bitcoin Genesis Block]({{ '/news/science-technology/bitcoin-genesis-block-2009/' | relative_url }})
+- [Cash for Clunkers (Car Allowance Rebate System)]({{ '/news/society-economics/cash-for-clunkers-2009/' | relative_url }})
+<!-- END GENERATED: related -->

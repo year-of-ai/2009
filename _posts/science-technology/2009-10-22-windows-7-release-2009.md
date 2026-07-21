@@ -34,3 +34,10 @@ Arriving in late 2009, the launch was a significant event in a personal-computin
 - [Windows 7 debut a hit: NPD — Phys.org](https://phys.org/news/2009-11-windows-debut-npd.html)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Bitcoin Genesis Block]({{ '/news/science-technology/bitcoin-genesis-block-2009/' | relative_url }})
+- [SpaceX Falcon 9 Development]({{ '/news/science-technology/spacex-falcon-9-first-flight-2009/' | relative_url }})
+- [Kepler Space Telescope Launch]({{ '/news/science-technology/kepler-space-telescope-launch-2009/' | relative_url }})
+- [Wolfram Alpha Launch]({{ '/news/science-technology/wolfram-alpha-launch-2009/' | relative_url }})
+<!-- END GENERATED: related -->

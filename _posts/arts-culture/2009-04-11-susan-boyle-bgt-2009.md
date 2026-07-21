@@ -62,3 +62,9 @@ The 2009 Grammy season that followed Boyle's rise also saw major recognition for
 - [The New York Times — Susan Boyle Coverage (April 2009)](https://www.nytimes.com/) — contemporaneous coverage of the audition's international viral spread and early analysis of the YouTube milestone.
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [51st Grammy Awards]({{ '/news/arts-culture/grammy-awards-2009/' | relative_url }})
+- [Death of Michael Jackson]({{ '/news/arts-culture/michael-jackson-death-2009/' | relative_url }})
+- [Kanye West interrupts Taylor Swift at the VMAs]({{ '/news/people/kanye-west-taylor-swift-vma-2009/' | relative_url }})
+<!-- END GENERATED: related -->

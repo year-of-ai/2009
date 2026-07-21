@@ -44,3 +44,10 @@ Ted Kennedy's nearly 47-year Senate tenure made him one of the longest-serving s
 - [2010 United States Senate special election in Massachusetts — Wikipedia](https://en.wikipedia.org/wiki/2010_United_States_Senate_special_election_in_Massachusetts)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Healthcare Reform and Ted Kennedy's Legislative Legacy]({{ '/news/history-politics/healthcare-reform-ted-kennedy-legacy-2009/' | relative_url }})
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [Sonia Sotomayor Confirmed to the Supreme Court]({{ '/news/history-politics/sotomayor-supreme-court-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+<!-- END GENERATED: related -->

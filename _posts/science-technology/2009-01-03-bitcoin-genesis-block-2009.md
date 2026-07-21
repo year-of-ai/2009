@@ -73,3 +73,10 @@ The embedded *Times* headline also endured as a cultural touchstone: it roots Bi
 - Finney, Hal (2009): "Running Bitcoin" (original tweet, January 10, 2009) — archived at https://twitter.com/halfin/status/1110302988
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Large Hadron Collider First Proton Collisions]({{ '/news/science-technology/lhc-first-proton-collisions-2009/' | relative_url }})
+- [SpaceX Falcon 9 Development]({{ '/news/science-technology/spacex-falcon-9-first-flight-2009/' | relative_url }})
+- [2009 H1N1 Swine Flu Pandemic]({{ '/news/science-technology/h1n1-swine-flu-pandemic/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+<!-- END GENERATED: related -->

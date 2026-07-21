@@ -38,3 +38,9 @@ Although the Green Movement did not produce immediate political change — Ahmad
 - https://www.foreignaffairs.com/iran/irans-green-movement-never-went-away
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Uyghur Unrest in Xinjiang]({{ '/news/society-economics/uyghur-unrest-xinjiang-2009/' | relative_url }})
+- [Barack Obama Awarded Nobel Peace Prize]({{ '/news/history-politics/obama-nobel-peace-prize-2009/' | relative_url }})
+- [Copenhagen Climate Conference (COP15)]({{ '/news/history-politics/cop15-copenhagen-2009/' | relative_url }})
+<!-- END GENERATED: related -->

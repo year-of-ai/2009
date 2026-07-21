@@ -61,3 +61,9 @@ The Fort Hood tragedy also intersected with the early months of the [Barack Obam
 - [U.S. Department of Defense: Fort Hood Follow-on Review (2010)](https://archive.defense.gov/pubs/pdfs/Fort_Hood_Follow-on_Review_April_2010.pdf)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [Miracle on the Hudson — US Airways Flight 1549]({{ '/news/history-politics/miracle-on-the-hudson/' | relative_url }})
+- [Maersk Alabama Hijacking and Rescue of Captain Richard Phillips]({{ '/news/history-politics/maersk-alabama-hijacking-2009/' | relative_url }})
+<!-- END GENERATED: related -->

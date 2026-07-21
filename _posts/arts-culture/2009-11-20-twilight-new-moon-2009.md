@@ -74,3 +74,12 @@ The film's marketing campaign, coordinated by Summit's newly empowered marketing
 - Variety: "New Moon Breaks November Records," November 21, 2009
 - The Hollywood Reporter: "Twilight franchise — by the numbers," 2012
 - Billboard: *New Moon* soundtrack chart performance, November 2009
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [*Avatar* theatrical release]({{ '/news/arts-culture/avatar-2009/' | relative_url }})
+- [*Up* theatrical release]({{ '/news/arts-culture/up-pixar-2009/' | relative_url }})
+- [*Star Trek* film reboot]({{ '/news/arts-culture/star-trek-2009-film/' | relative_url }})
+- [Kanye West interrupts Taylor Swift at the VMAs]({{ '/news/people/kanye-west-taylor-swift-vma-2009/' | relative_url }})
+<!-- END GENERATED: related -->

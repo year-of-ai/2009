@@ -36,3 +36,10 @@ In the broader narrative of 2009, the confirmation stood alongside other milesto
 - [Justice Sonia Sotomayor — The White House (Obama administration archive)](https://obamawhitehouse.archives.gov/blog/2009/08/06/justice-sonia-sotomayor)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [Barack Obama Awarded Nobel Peace Prize]({{ '/news/history-politics/obama-nobel-peace-prize-2009/' | relative_url }})
+- [Fort Hood Shooting]({{ '/news/history-politics/fort-hood-shooting-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+<!-- END GENERATED: related -->

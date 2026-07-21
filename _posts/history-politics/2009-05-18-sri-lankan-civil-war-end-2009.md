@@ -36,3 +36,10 @@ The defeat of the LTTE ended one of Asia's longest-running civil wars and disman
 - [End of the Sri Lankan Civil War in May 2009 — Facts and Details](https://factsanddetails.com/south-asia/Srilanka/Religion_Srilanka/entry-7959.html)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Iran's Green Movement protests]({{ '/news/history-politics/iran-green-movement-2009/' | relative_url }})
+- [Uyghur unrest in Xinjiang]({{ '/news/society-economics/uyghur-unrest-xinjiang-2009/' | relative_url }})
+- [Fort Hood shooting]({{ '/news/history-politics/fort-hood-shooting-2009/' | relative_url }})
+- [India's 2009 General Election]({{ '/news/history-politics/india-election-2009/' | relative_url }})
+<!-- END GENERATED: related -->

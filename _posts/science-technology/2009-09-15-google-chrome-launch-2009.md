@@ -55,3 +55,10 @@ The Chrome launch paralleled other significant 2009 digital platform events, inc
 - [StatCounter Global Browser Market Share 2009 — StatCounter](https://gs.statcounter.com/browser-market-share/desktop/worldwide/#monthly-200901-200912)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Microsoft Bing launches]({{ '/news/science-technology/microsoft-bing-launch-2009/' | relative_url }})
+- [Wolfram Alpha Launch]({{ '/news/science-technology/wolfram-alpha-launch-2009/' | relative_url }})
+- [Windows 7 General Availability]({{ '/news/science-technology/windows-7-release-2009/' | relative_url }})
+- [Amazon Kindle E-reader Expansion]({{ '/news/science-technology/kindle-ereader-launch-2009/' | relative_url }})
+<!-- END GENERATED: related -->

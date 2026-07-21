@@ -36,3 +36,10 @@ The controversy surrounding the 2009 prize renewed broader discussions about the
 - [2009 Nobel Peace Prize Awarded to President Barack Obama — U.S. Mission Geneva](https://geneva.usmission.gov/2009/10/09/nobel-peace-prize-200/)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [Copenhagen Climate Conference (COP15)]({{ '/news/history-politics/cop15-copenhagen-2009/' | relative_url }})
+- [Iran's Green Movement Protests (2009)]({{ '/news/history-politics/iran-green-movement-2009/' | relative_url }})
+- [Fort Hood Shooting]({{ '/news/history-politics/fort-hood-shooting-2009/' | relative_url }})
+<!-- END GENERATED: related -->

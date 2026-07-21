@@ -69,3 +69,9 @@ Historically, the resignation exemplified the tensions facing elected officials 
 - [Politico — Palin Endorsements 2010](https://www.politico.com/) — tracking of Palin's 2010 midterm endorsements and their electoral outcomes, documenting her influence on the Tea Party wave.
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [Sonia Sotomayor confirmed to Supreme Court]({{ '/news/history-politics/sotomayor-supreme-court-2009/' | relative_url }})
+- [Barack Obama Awarded Nobel Peace Prize]({{ '/news/history-politics/obama-nobel-peace-prize-2009/' | relative_url }})
+<!-- END GENERATED: related -->

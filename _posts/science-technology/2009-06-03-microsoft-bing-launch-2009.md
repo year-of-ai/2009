@@ -90,8 +90,17 @@ Bing's launch marked Microsoft's most serious and well-resourced effort to compe
 ## Sources
 
 - Wikipedia: "Microsoft Bing." [https://en.wikipedia.org/wiki/Microsoft_Bing](https://en.wikipedia.org/wiki/Microsoft_Bing)
-- Microsoft press release, June 3, 2009: "Bing Search Engine Launched" (archived via news.microsoft.com)
+- Microsoft News Center: "Microsoft's New Search at Bing.com Helps People Make Better Decisions," May 28, 2009 (Bing rolled out worldwide June 3, 2009). [https://news.microsoft.com/2009/05/28/microsofts-new-search-at-bing-com-helps-people-make-better-decisions/](https://news.microsoft.com/2009/05/28/microsofts-new-search-at-bing-com-helps-people-make-better-decisions/)
+- Microsoft News Center: "Microsoft, Yahoo! Change Search Landscape," July 29, 2009. [https://news.microsoft.com/2009/07/29/microsoft-yahoo-change-search-landscape/](https://news.microsoft.com/2009/07/29/microsoft-yahoo-change-search-landscape/)
+- CNN Money: "Microsoft, Yahoo finally reach deal," July 29, 2009. [https://money.cnn.com/2009/07/29/technology/microsoft_yahoo/](https://money.cnn.com/2009/07/29/technology/microsoft_yahoo/)
 - The New York Times: "Microsoft Introduces Bing Search Engine," June 3, 2009
-- Wired Magazine: "Microsoft Unveils 'Decision Engine' Bing," June 2009
-- Microsoft press release, July 29, 2009: "Microsoft and Yahoo! to Form Search Partnership"
 - comScore qSearch data, June–December 2009 (U.S. search market share)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Google Chrome's 2009 rise]({{ '/news/science-technology/google-chrome-launch-2009/' | relative_url }})
+- [Wolfram Alpha launch]({{ '/news/science-technology/wolfram-alpha-launch-2009/' | relative_url }})
+- [Windows 7 general availability]({{ '/news/science-technology/windows-7-release-2009/' | relative_url }})
+- [Amazon Kindle e-reader expansion]({{ '/news/science-technology/kindle-ereader-launch-2009/' | relative_url }})
+<!-- END GENERATED: related -->

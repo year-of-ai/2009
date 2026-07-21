@@ -59,3 +59,10 @@ William Borucki received numerous honors for the mission, including the Gruber P
 - [NASA Exoplanet Archive — Kepler Statistics](https://exoplanetarchive.ipac.caltech.edu/)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Large Hadron Collider First Proton Collisions]({{ '/news/science-technology/lhc-first-proton-collisions-2009/' | relative_url }})
+- [SpaceX Falcon 9 Development]({{ '/news/science-technology/spacex-falcon-9-first-flight-2009/' | relative_url }})
+- [Ardi (*Ardipithecus ramidus*) Unveiled]({{ '/news/science-technology/ardipithecus-ramidus-2009/' | relative_url }})
+- [Windows 7 General Availability]({{ '/news/science-technology/windows-7-release-2009/' | relative_url }})
+<!-- END GENERATED: related -->

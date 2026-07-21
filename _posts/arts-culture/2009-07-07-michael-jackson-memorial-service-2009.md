@@ -66,3 +66,11 @@ The service also surfaced unresolved questions about his death, the circumstance
 - [Nielsen Media Research — TV Viewership Report, July 2009](https://www.nielsen.com)
 
 <!-- BEGIN GENERATED: related -->
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Death of Michael Jackson]({{ '/news/arts-culture/michael-jackson-death-2009/' | relative_url }})
+- [51st Grammy Awards]({{ '/news/arts-culture/grammy-awards-2009/' | relative_url }})
+- [Kanye West Interrupts Taylor Swift at the MTV VMAs]({{ '/news/people/kanye-west-taylor-swift-vma-2009/' | relative_url }})
+<!-- END GENERATED: related -->

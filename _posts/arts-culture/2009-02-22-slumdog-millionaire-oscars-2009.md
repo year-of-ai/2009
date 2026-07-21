@@ -50,3 +50,10 @@ The film's near-sweep at the 2009 ceremony underscored a broader internationaliz
 - [The 81st Academy Awards Memorable Moments — Oscars.org](https://www.oscars.org/oscars/ceremonies/2009/memorable-moments)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [51st Grammy Awards]({{ '/news/arts-culture/grammy-awards-2009/' | relative_url }})
+- [*Up* (Pixar Film)]({{ '/news/arts-culture/up-pixar-2009/' | relative_url }})
+- [*Avatar* Theatrical Release (2009)]({{ '/news/arts-culture/avatar-2009/' | relative_url }})
+- [Death of Michael Jackson]({{ '/news/arts-culture/michael-jackson-death-2009/' | relative_url }})
+<!-- END GENERATED: related -->

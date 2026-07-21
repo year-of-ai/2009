@@ -45,3 +45,9 @@ The Maersk Alabama hijacking was the most prominent episode in the wave of Somal
 - [Somali Pirate Sentenced in Manhattan Federal Court to 405 Months in Prison — FBI](https://archives.fbi.gov/archives/newyork/press-releases/2011/somalian-pirate-sentenced-in-manhattan-federal-court-to-405-months-in-prison-for-hijacking-three-ships-and-for-hostage-taking)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Miracle on the Hudson]({{ '/news/history-politics/miracle-on-the-hudson/' | relative_url }})
+- [Fort Hood Shooting]({{ '/news/history-politics/fort-hood-shooting-2009/' | relative_url }})
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+<!-- END GENERATED: related -->

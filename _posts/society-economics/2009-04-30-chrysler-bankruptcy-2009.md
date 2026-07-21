@@ -55,3 +55,9 @@ The Chrysler bankruptcy, together with the General Motors filing that followed o
 - [Implications of the Sale of Chrysler — Harvard Law School Forum on Corporate Governance](https://corpgov.law.harvard.edu/2009/06/03/implications-of-the-sale-of-chrysler/)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [General Motors Chapter 11 Bankruptcy]({{ '/news/society-economics/general-motors-bankruptcy-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+- [Cash for Clunkers (Car Allowance Rebate System)]({{ '/news/society-economics/cash-for-clunkers-2009/' | relative_url }})
+<!-- END GENERATED: related -->

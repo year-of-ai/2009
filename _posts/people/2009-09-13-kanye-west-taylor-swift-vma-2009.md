@@ -55,3 +55,9 @@ The VMA incident crystallized the 2009 media climate in which celebrity behavior
 - [Taylor Swift–Kanye West feud — Wikipedia](https://en.wikipedia.org/wiki/Taylor_Swift%E2%80%93Kanye_West_feud)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [51st Grammy Awards]({{ '/news/arts-culture/grammy-awards-2009/' | relative_url }})
+- [Death of Michael Jackson]({{ '/news/arts-culture/michael-jackson-death-2009/' | relative_url }})
+- [Barack Obama inaugurated]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+<!-- END GENERATED: related -->

@@ -35,3 +35,10 @@ Bolt's 9.58 and 19.19 redefined the perceived limits of human sprinting and stoo
 - [Usain Bolt sets 100-meter dash world record — HISTORY](https://www.history.com/this-day-in-history/august-16/usain-bolt-100-meter-run-world-record)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Serena Williams' Wimbledon Grand Slam victory]({{ '/news/people/serena-williams-wimbledon-2009/' | relative_url }})
+- [Michael Jackson dies]({{ '/news/arts-culture/michael-jackson-death-2009/' | relative_url }})
+- [Barack Obama awarded Nobel Peace Prize]({{ '/news/history-politics/obama-nobel-peace-prize-2009/' | relative_url }})
+- [Sonia Sotomayor confirmed to Supreme Court]({{ '/news/history-politics/sotomayor-supreme-court-2009/' | relative_url }})
+<!-- END GENERATED: related -->

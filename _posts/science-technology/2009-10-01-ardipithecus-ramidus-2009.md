@@ -47,3 +47,9 @@ The 2009 *Ardipithecus ramidus* studies reshaped scientific thinking about the e
 - [Discovery of 4.4 million-year-old "Ardi" named Breakthrough of the Year — Berkeley News](https://news.berkeley.edu/2009/12/17/breakthrough_2009/)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Kepler Space Telescope Launch]({{ '/news/science-technology/kepler-space-telescope-launch-2009/' | relative_url }})
+- [Large Hadron Collider First Proton Collisions]({{ '/news/science-technology/lhc-first-proton-collisions-2009/' | relative_url }})
+- [2009 H1N1 Swine Flu Pandemic]({{ '/news/science-technology/h1n1-swine-flu-pandemic/' | relative_url }})
+<!-- END GENERATED: related -->

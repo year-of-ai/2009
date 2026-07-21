@@ -79,3 +79,10 @@ The final over Venus also cemented their rivalry as the longest and most signifi
 - CNN — "Wimbledon champion Venus crushes Safina" (July 2, 2009): https://www.cnn.com/2009/SPORT/07/02/wimbledon.tennis.venus/index.html
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Usain Bolt's 2009 World Records (August 2009)]({{ '/news/people/usain-bolt-2009-world-records/' | relative_url }})
+- [Barack Obama's Inauguration (January 2009)]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [Kanye West Interrupts Taylor Swift at the VMAs (September 2009)]({{ '/news/people/kanye-west-taylor-swift-vma-2009/' | relative_url }})
+- [Roger Federer's 15th Grand Slam at Wimbledon (July 2009)]({{ '/news/people/roger-federer-15th-grand-slam-2009/' | relative_url }})
+<!-- END GENERATED: related -->

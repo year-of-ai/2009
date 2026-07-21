@@ -32,3 +32,9 @@ The 2009 H1N1 pandemic was the first pandemic influenza event since 1968 and the
 - [CDC — First Global Estimates of 2009 H1N1 Pandemic Mortality](https://archive.cdc.gov/www_cdc_gov/flu/spotlights/pandemic-global-estimates.htm)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Large Hadron Collider First Proton Collisions]({{ '/news/science-technology/lhc-first-proton-collisions-2009/' | relative_url }})
+- [Bitcoin Genesis Block]({{ '/news/science-technology/bitcoin-genesis-block-2009/' | relative_url }})
+- [Copenhagen Climate Conference (COP15)]({{ '/news/history-politics/cop15-copenhagen-2009/' | relative_url }})
+<!-- END GENERATED: related -->

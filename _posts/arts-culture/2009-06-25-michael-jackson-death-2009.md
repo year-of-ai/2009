@@ -39,3 +39,10 @@ The legal proceedings surrounding his death also had lasting significance for th
 - https://www.ebsco.com/research-starters/pharmacy-and-pharmacology/michael-jacksons-death
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Michael Jackson Memorial Service]({{ '/news/arts-culture/michael-jackson-memorial-service-2009/' | relative_url }})
+- [51st Grammy Awards]({{ '/news/arts-culture/grammy-awards-2009/' | relative_url }})
+- [Kanye West Interrupts Taylor Swift at the MTV VMAs]({{ '/news/people/kanye-west-taylor-swift-vma-2009/' | relative_url }})
+- [Death of Patrick Swayze]({{ '/news/people/patrick-swayze-death-2009/' | relative_url }})
+<!-- END GENERATED: related -->

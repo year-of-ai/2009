@@ -53,3 +53,9 @@ The Kindle's rise paralleled other 2009 digital platform expansions, including [
 - [Publishers Weekly — E-book Market Share Analysis 2009](https://www.publishersweekly.com/)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Google Chrome Browser: 2009 Milestones]({{ '/news/science-technology/google-chrome-launch-2009/' | relative_url }})
+- [Wolfram Alpha Launch]({{ '/news/science-technology/wolfram-alpha-launch-2009/' | relative_url }})
+- [Windows 7 General Availability]({{ '/news/science-technology/windows-7-release-2009/' | relative_url }})
+<!-- END GENERATED: related -->

@@ -81,3 +81,10 @@ The 2009 crisis and the ARRA response took place in the same year that [Bitcoin'
 - [Romer, Christina & Bernstein, Jared: "The Job Impact of the American Recovery and Reinvestment Plan" (January 2009)](https://obamawhitehouse.archives.gov/files/documents/cea_arra_report.pdf)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Inauguration]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [Sonia Sotomayor Confirmed to the Supreme Court]({{ '/news/history-politics/sotomayor-supreme-court-2009/' | relative_url }})
+- [Uyghur Unrest in Xinjiang]({{ '/news/society-economics/uyghur-unrest-xinjiang-2009/' | relative_url }})
+- [General Motors Chapter 11 Bankruptcy]({{ '/news/society-economics/general-motors-bankruptcy-2009/' | relative_url }})
+<!-- END GENERATED: related -->

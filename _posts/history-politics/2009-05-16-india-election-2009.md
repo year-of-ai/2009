@@ -81,3 +81,10 @@ The [American Recovery and Reinvestment Act]({{ '/news/society-economics/america
 - Election Commission of India — Official results and voter statistics: https://www.eci.gov.in/
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama's Nobel Peace Prize (October 2009)]({{ '/news/history-politics/obama-nobel-peace-prize-2009/' | relative_url }})
+- [Copenhagen Climate Conference COP15 (December 2009)]({{ '/news/history-politics/cop15-copenhagen-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act (February 2009)]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+- [Sri Lankan Civil War End (May 2009)]({{ '/news/history-politics/sri-lankan-civil-war-end-2009/' | relative_url }})
+<!-- END GENERATED: related -->

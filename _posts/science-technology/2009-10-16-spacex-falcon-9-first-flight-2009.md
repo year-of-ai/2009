@@ -50,3 +50,9 @@ Beyond price, the Falcon 9's eventual development of propulsive first-stage land
 - [NASA Commercial Orbital Transportation Services — NASA](https://www.nasa.gov/commercial-orbital-transportation-services-cots)
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Kepler Space Telescope Launch]({{ '/news/science-technology/kepler-space-telescope-launch-2009/' | relative_url }})
+- [Bitcoin Genesis Block]({{ '/news/science-technology/bitcoin-genesis-block-2009/' | relative_url }})
+- [Windows 7 General Availability]({{ '/news/science-technology/windows-7-release-2009/' | relative_url }})
+<!-- END GENERATED: related -->

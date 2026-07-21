@@ -66,3 +66,9 @@ For Myanmar's neighbors facing similar cyclone exposure — particularly Banglad
 - https://www.fao.org/emergencies/fao-in-action/stories/stories-detail/en/c/1127396/
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [End of the Sri Lankan Civil War]({{ '/news/history-politics/sri-lankan-civil-war-end-2009/' | relative_url }})
+- [Uyghur unrest in Xinjiang]({{ '/news/society-economics/uyghur-unrest-xinjiang-2009/' | relative_url }})
+- [India's 2009 General Election]({{ '/news/history-politics/india-election-2009/' | relative_url }})
+<!-- END GENERATED: related -->

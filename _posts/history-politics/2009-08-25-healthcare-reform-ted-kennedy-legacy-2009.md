@@ -63,3 +63,11 @@ For the broader Republican opposition, Brown's victory validated attacks on the 
 - [PBS NewsHour — The Road to Healthcare Reform](https://www.pbs.org/newshour)
 
 <!-- BEGIN GENERATED: related -->
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Death of Senator Ted Kennedy]({{ '/news/people/ted-kennedy-death-2009/' | relative_url }})
+- [Barack Obama Inaugurated]({{ '/news/history-politics/obama-inauguration-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+<!-- END GENERATED: related -->

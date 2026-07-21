@@ -77,3 +77,9 @@ The 2009 unrest coincided with a particularly tumultuous year in Chinese diploma
 - Congressional-Executive Commission on China: "2009 Annual Report" — https://www.cecc.gov/
 
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Iran Green Movement Protests]({{ '/news/history-politics/iran-green-movement-2009/' | relative_url }})
+- [Copenhagen Climate Conference (COP15)]({{ '/news/history-politics/cop15-copenhagen-2009/' | relative_url }})
+- [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
+<!-- END GENERATED: related -->
