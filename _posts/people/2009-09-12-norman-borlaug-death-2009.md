@@ -51,6 +51,10 @@ The posthumous Borlaug debate directly shaped the 2009–2010 global agricultura
 - Borlaug's advocacy for GM crops influenced ongoing WTO disputes over EU restrictions on biotech agriculture, with the U.S. Trade Representative citing his legacy in 2009 trade filings.
 - The World Bank's 2008 World Development Report (released January 2008 and still widely cited in 2009) called for doubling agricultural investment in developing nations—a call Borlaug had been making for decades.
 
+## Significance
+
+Borlaug's death removed the founding figure of the Green Revolution at a moment when its legacy was both widely credited and sharply contested. His semi-dwarf wheat varieties and the high-yield model they anchored are commonly credited with averting famine in South Asia and with a food-production increase estimated to have sustained on the order of a billion people—the basis for his 1970 Nobel Peace Prize and his standing as one of the most consequential agricultural scientists of the twentieth century. His passing also crystallized the central agricultural debate of 2009: whether the input-intensive model he pioneered could be adapted to sub-Saharan Africa's smallholder systems without reproducing the environmental and social costs his critics identified. That question shaped the food-security agenda—from the November 2009 FAO summit to the Gates- and Rockefeller-backed AGRA initiative—that his final decades of work in Africa had sought to advance.
+
 ## Sources
 
 - Wikipedia — Norman Borlaug: https://en.wikipedia.org/wiki/Norman_Borlaug

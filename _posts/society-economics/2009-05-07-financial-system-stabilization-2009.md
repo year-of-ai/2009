@@ -76,6 +76,10 @@ The episode also foreshadowed European bank stress tests: the European Banking A
 
 The stress tests did not occur in isolation. In the same period, [General Motors filed for Chapter 11 bankruptcy on June 1, 2009]({{ '/news/society-economics/general-motors-bankruptcy-2009/' | relative_url }})—the fourth-largest U.S. bankruptcy in history—and [Chrysler completed its Chapter 11 restructuring in April–June 2009]({{ '/news/society-economics/chrysler-bankruptcy-2009/' | relative_url }}), with the federal government taking major ownership stakes in both. The [American Recovery and Reinvestment Act (ARRA)]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }}), signed February 17, 2009, injected $787 billion in fiscal stimulus alongside the financial-sector recapitalization. Meanwhile, [Bernard Madoff's June 2009 sentencing]({{ '/news/society-economics/madoff-sentencing-2009/' | relative_url }}) to 150 years—for a $65 billion fraud—reinforced public anger at financial-sector misconduct even as stabilization efforts proceeded.
 
+## Significance
+
+The Supervisory Capital Assessment Program is widely regarded as the turning point in the U.S. recovery from the 2008 financial crisis. By publishing bank-specific results, it replaced the market's fear of hidden insolvency with a credible, quantified account of each institution's capital needs—reducing uncertainty enough to reopen private capital markets, which supplied the bulk of the required recapitalization within months. The May 7 disclosure coincided with the start of a sustained equity-market rebound and a rapid wave of TARP repayments, signaling that the acute phase of the banking panic had passed. Its methodological innovation—transparency paired with a public backstop—was institutionalized by the Dodd-Frank Act as the annual DFAST and CCAR exercises, making the 2009 program the direct ancestor of a permanent feature of U.S. bank supervision and a model, if an imperfectly imitated one, for subsequent European stress tests.
+
 ## Sources
 
 - Wikipedia — Supervisory Capital Assessment Program: https://en.wikipedia.org/wiki/Supervisory_Capital_Assessment_Program
