@@ -5,6 +5,7 @@ date: 2009-05-07
 categories: society-economics
 tags: financial-crisis recession banking treasury stress-tests tarp
 excerpt: "The U.S. Federal Reserve and Treasury Department conducted stress tests on major banks (May 2009), revealing capital shortfalls and triggering $134 billion in additional recapitalization—a turning point in the recovery from the 2008 financial crisis."
+permalink: "/news/society-economics/financial-system-stabilization-2009/"
 ---
 
 # 2009 Financial System Stress Tests and Bank Recapitalization

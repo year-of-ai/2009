@@ -5,6 +5,7 @@ date: 2009-09-12
 categories: people
 tags: agriculture green-revolution nobel-peace-prize food-security
 excerpt: "Agricultural scientist and founder of the Green Revolution, Norman Borlaug died September 12, 2009, at age 95, leaving a legacy of saving approximately 1 billion lives through high-yield crop development."
+permalink: "/news/people/norman-borlaug-death-2009/"
 ---
 
 # Death of Norman Borlaug
