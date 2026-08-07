@@ -97,5 +97,6 @@ The Supervisory Capital Assessment Program is widely regarded as the turning poi
 - [General Motors Chapter 11 bankruptcy]({{ '/news/society-economics/general-motors-bankruptcy-2009/' | relative_url }})
 - [Chrysler Chapter 11 bankruptcy]({{ '/news/society-economics/chrysler-bankruptcy-2009/' | relative_url }})
 - [Bernie Madoff sentenced]({{ '/news/society-economics/madoff-sentencing-2009/' | relative_url }})
+- [Onset of the Greek government-debt crisis]({{ '/news/society-economics/greek-debt-crisis-onset-2009/' | relative_url }})
 
 <!-- END GENERATED: related -->
