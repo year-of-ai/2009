@@ -54,5 +54,3 @@ The Greek disclosures of October 2009 transformed a national accounting problem 
 - [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
 
 <!-- END GENERATED: related -->
-</content>
-</invoke>
