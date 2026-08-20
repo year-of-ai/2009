@@ -66,8 +66,6 @@ For Wimbledon specifically, the 2009 final remains one of the most discussed mat
 - [ESPN — 2009 Wimbledon Men's Final Match Report](https://www.espn.com/tennis)
 - [BBC Sport — Federer breaks Sampras record, July 5, 2009](https://www.bbc.co.uk/sport/tennis)
 
-<!-- BEGIN GENERATED: related -->
-
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 

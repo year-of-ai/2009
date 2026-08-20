@@ -65,8 +65,6 @@ The service also surfaced unresolved questions about his death, the circumstance
 - [BBC News — Jackson Memorial Draws Billions](https://www.bbc.com)
 - [Nielsen Media Research — TV Viewership Report, July 2009](https://www.nielsen.com)
 
-<!-- BEGIN GENERATED: related -->
-
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 

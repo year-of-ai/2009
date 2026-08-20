@@ -70,8 +70,6 @@ The summit's emphasis on coordinated exit from stimulus would prove prescient: d
 - [The Pittsburgh G20 Summit: Impressions and Implications — Brookings Institution](https://www.brookings.edu/opinions/the-pittsburgh-g20-summit-impressions-and-implications/)
 - [Financial Stability Board — History and Mandate](https://www.fsb.org/about/history/)
 
-<!-- BEGIN GENERATED: related -->
-
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 

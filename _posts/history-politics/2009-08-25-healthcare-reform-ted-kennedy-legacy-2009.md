@@ -62,8 +62,6 @@ For the broader Republican opposition, Brown's victory validated attacks on the 
 - [The New York Times — Kennedy Death and Senate Dynamics, August 26, 2009](https://www.nytimes.com)
 - [PBS NewsHour — The Road to Healthcare Reform](https://www.pbs.org/newshour)
 
-<!-- BEGIN GENERATED: related -->
-
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
