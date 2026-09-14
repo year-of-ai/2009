@@ -73,6 +73,7 @@ The summit's emphasis on coordinated exit from stimulus would prove prescient: d
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [G20 London Summit]({{ '/news/history-politics/g20-london-summit-2009/' | relative_url }})
 - [American Recovery and Reinvestment Act]({{ '/news/society-economics/american-recovery-act-2009/' | relative_url }})
 - [Copenhagen Climate Conference (COP15)]({{ '/news/history-politics/cop15-copenhagen-2009/' | relative_url }})
 - [India's 2009 General Election]({{ '/news/history-politics/india-election-2009/' | relative_url }})
