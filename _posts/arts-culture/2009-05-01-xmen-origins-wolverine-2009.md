@@ -1,5 +1,5 @@
 ---
-title: X-Men Origins: Wolverine (2009 Film)
+title: "X-Men Origins: Wolverine (2009 Film)"
 date: 2009-05-01
 categories:
 - Arts & Culture
@@ -7,7 +7,7 @@ tags:
 - film
 - superhero
 - action
-excerpt: Gavin Hood's X-Men Origins: Wolverine premiered May 1, 2009, launching the first solo Wolverine film and grossing $373 million worldwide, while becoming notorious for an early high-profile piracy incident.
+excerpt: "Gavin Hood's X-Men Origins: Wolverine premiered May 1, 2009, launching the first solo Wolverine film and grossing $373 million worldwide, while becoming notorious for an early high-profile piracy incident."
 preview: "/images/previews/arts-culture.svg"
 permalink: "/news/arts-culture/xmen-origins-wolverine-2009/"
 ---
